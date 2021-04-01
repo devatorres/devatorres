@@ -5,7 +5,7 @@ I'm a web developer and UX • UI designer who improves day by day in graphic de
 - 🌱 I’m currently doing challenges of Frontend Mentor
 - 👯 I’m looking to collaborate on photography blogs, company websites...
 - 📫 How to reach me: atorresalcala.me@gmail.com
-- 😄 Social content: [instagram::atorres.designs](https://instagram.com/atorres.designs) • [codepen::atorres-designs](https://codepen.io/atorres-designs) • [linkedin::atorresalcala](https://linkedin.com/in/atorresalcala)
+- 😄 Social content: [instagram::atorres.designs](https://instagram.com/atorres.designs) • [codepen::atorres-designs](https://codepen.io/atorres-designs) • [linkedin::atorresalcala](https://linkedin.com/in/atorresalcala) • [frontend mentor::atorres-io](https://www.frontendmentor.io/profile/atorres-io)
 
 ### Skills
 
