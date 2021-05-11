@@ -8,7 +8,7 @@ I'm a web developer and training day by day as a web designer. I'm from Spain, l
 
 <details>	
   <summary><b>More about me</b></summary>
-  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from [Gamia Formación](https://abonfireofsouls.com/gamia/). I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX • UI) and graphics.</p>
+  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX • UI) and graphics.</p>
   <p>🤔 <i>Where can I see some of your work?</i> <b>Easy!</b></p>
 
 - 🗡 &nbsp; There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
@@ -17,7 +17,7 @@ I'm a web developer and training day by day as a web designer. I'm from Spain, l
 - 🛠 &nbsp; My personal **blog** is in process...
 - 🛠 &nbsp; My **Twitter** is in process...
 
-<summary><b>My absolute favorites:</b></summary>
+<p><b>My absolute favorites:</b></p>
 
 - 🏐 &nbsp; Play volleyball at a competitive and amateur level.
 - 🤭 &nbsp; Help others in software development based on what I am learning.
