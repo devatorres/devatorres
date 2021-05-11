@@ -1,5 +1,7 @@
 # Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
 
+<img alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/illustration.png">
+
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
 
 I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I'm from Spain, living in Málaga 🌴 and currently I'm working on several and own professional projects that make me grow 📈.
@@ -45,3 +47,21 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 [![VsCode Badge](https://img.shields.io/badge/-VSCode-038fd6?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <br />
 Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">Here</a>
+
+## 📈 Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact)](https://github.com/atorres-io/github-readme-stats)
+<br />
+![atorres-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=radical)
+
+## 📫 Where to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atorresalcala)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.designs)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/atorres-designs)
+[![Figma Badge](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=a259ff)](https://www.figma.com/@atorres)
+[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/atorres-io)
+
+<hr />
+
+### Show some ❤️ by starring some of the repositories!
