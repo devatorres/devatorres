@@ -1,28 +1,26 @@
 # Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
 
-<img alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/illustration.png">
-
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
 
-I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I'm from Spain, living in Málaga 🌴 and currently I'm working several own and professional projects that make me grow 📈.
+I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I'm from Spain, living in Málaga 🌴 and currently I'm working on several and own professional projects that make me grow 📈.
 
 <details>	
   <summary><b>More about me</b></summary>
   <br />
-  <p>I have finished a vocational training how <b>Web Application Development</b>. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX UI) and graphics.</p>
+  <p>I have finished a vocational training of the degree <b>Web Application Development</b>. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and I've been improving in web design (UX UI) and graphic design for <b>4</b> years now.</p>
   <p>🤔 <i>Where can you see some of my work?</i> &nbsp; <b>Easy!</b></p>
 
 - 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
-- 🎨 Is my [Instagram](https://instagram.com/atorres.designs) where I upload from tips to illustrations, etc.
-- 🎽 Is my [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
+- 🎨 I'm on [Instagram](https://instagram.com/atorres.designs) where I upload tips, designs, illustrations, tests, etc.
+- 🎽 I'm on [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
 - 🛠 My personal **blog** is in process...
 - 🛠 My **Twitter** is in process...
 
 <b>My absolute favorites:</b>
 
-- 🏐 Play volleyball at a competitive and amateur level.
-- 🤭 Help others in software development based on what I am learning.
-- 🎮 Disconnect from time to time with a good video game.
+- 🏐 Play volleyball at a competitive and semi-professional level.
+- 🤭 Grow up giving helpful advice.
+- 🎮 Enjoy a good video game.
 </details>
 
 ## 🔧 Things I code with
