@@ -8,7 +8,7 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 
 <details>	
   <summary><b>More about me</b></summary>
-  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX UI) and graphics.</p>
+  <p>I have finished a vocational training how <b>Web Application Development</b>. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX UI) and graphics.</p>
   <p>🤔 <i>Where can I see some of your work?</i> &nbsp; <b>Easy!</b></p>
 
 - 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
@@ -17,7 +17,7 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 - 🛠 My personal **blog** is in process...
 - 🛠 My **Twitter** is in process...
 
-<p><b>My absolute favorites:</b></p>
+<b>My absolute favorites:</b>
 
 - 🏐 Play volleyball at a competitive and amateur level.
 - 🤭 Help others in software development based on what I am learning.
@@ -45,6 +45,5 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
   <img alt="figma" src="https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=a259ff" />
   <img alt="phpstorm" src="https://img.shields.io/badge/-PhpStorm-a849f2?style=flat-square&logo=phpstorm&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-VSCode-038fd6?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <br />
-  ⚛️ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">Here</a>.
 </p>
+⚛️ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">Here</a>
