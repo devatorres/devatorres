@@ -1,4 +1,4 @@
-# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
+# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="25px">
 
 <img alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/illustration.png">
 
@@ -8,25 +8,25 @@ I'm a web developer and training day by day as a web designer. I'm from Spain, l
 
 <details>	
   <summary><b>More about me</b></summary>
-  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX • UI) and graphics.</p>
+  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX UI) and graphics.</p>
   <p>🤔 <i>Where can I see some of your work?</i> <b>Easy!</b></p>
 
-- 🗡 &nbsp; There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
-- 🎨 &nbsp; Is my [Instagram](https://instagram.com/atorres.designs) where I upload from tips to illustrations, etc.
-- 🎽 &nbsp; Is my [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
-- 🛠 &nbsp; My personal **blog** is in process...
-- 🛠 &nbsp; My **Twitter** is in process...
+- 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
+- 🎨 Is my [Instagram](https://instagram.com/atorres.designs) where I upload from tips to illustrations, etc.
+- 🎽 Is my [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
+- 🛠 My personal **blog** is in process...
+- 🛠 My **Twitter** is in process...
 
 <p><b>My absolute favorites:</b></p>
 
-- 🏐 &nbsp; Play volleyball at a competitive and amateur level.
-- 🤭 &nbsp; Help others in software development based on what I am learning.
-- 🎮 &nbsp; Disconnect from time to time with a good video game.
+- 🏐 Play volleyball at a competitive and amateur level.
+- 🤭 Help others in software development based on what I am learning.
+- 🎮 Disconnect from time to time with a good video game.
 </details>
 
 ## 🔧 Things I code with
 
-<p>
+<p style="display: flex; flex-flow: row wrap;">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-e44d26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-379ad6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-d56ea3?style=flat-square&logo=sass&logoColor=white" />
