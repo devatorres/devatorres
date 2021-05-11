@@ -50,9 +50,13 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 
 ## 📈 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact)](https://github.com/atorres-io/github-readme-stats)
-<br />
-![atorres-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue)
+<details>
+  <summary>more info...</summary>
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact)](https://github.com/atorres-io/github-readme-stats)
+  <br />
+  ![atorres-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue)
+</details>
 
 ## 📫 Where to find me
 
