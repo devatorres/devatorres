@@ -57,7 +57,7 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
   <br />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue" />
   <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=atorres-io&theme=vue&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=atorres-io&theme=vue&hide_border=false" />
 </details>
 
 ## 📫 Where to find me
