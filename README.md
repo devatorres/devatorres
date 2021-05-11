@@ -4,20 +4,20 @@
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
 
-I'm a web developer and training day by day as a web designer. I'm from Spain, living in Málaga and currently I'm working several own and professional projects that make me grow in my sector. You can find me on ![Linkedin](https://linkedin.com/in/atorresalcala), or on ![Instagram](https://instagram.com/atorres.designs).
+I'm a web developer and training day by day as a web designer. I'm from Spain, living in Málaga and currently I'm working several own and professional projects that make me grow in my sector. You can find me on [Linkedin](https://linkedin.com/in/atorresalcala), or on [Instagram](https://instagram.com/atorres.designs).
 
 <details>	
   <summary><b>More about me</b></summary>
-  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from ![Gamia Formación](https://abonfireofsouls.com/gamia/). I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX • UI) and graphics.</p>
+  <p>I have finished a vocational training how Web Application Development. I also have a master's degree in Game Development from [Gamia Formación](https://abonfireofsouls.com/gamia/). I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and have <b>4</b> years improving in web design (UX • UI) and graphics.</p>
   <p>🤔 <i>Where can I see some of your work?</i> <b>Easy!</b></p>
 
-- 🗡 &nbsp; There are numerous completed challenges available on my Github about ![Frontend Mentor](https://frontendmentor.io).
-- 🎨 &nbsp; Is my ![Instagram](https://instagram.com/atorres.designs) where I upload from tips to illustrations, etc.
-- 🎽 &nbsp; Is my ![Codepen](https://codepen.io/atorres-designs)</a> where I practice a lot and help those who need it.
+- 🗡 &nbsp; There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
+- 🎨 &nbsp; Is my [Instagram](https://instagram.com/atorres.designs) where I upload from tips to illustrations, etc.
+- 🎽 &nbsp; Is my [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
 - 🛠 &nbsp; My personal **blog** is in process...
 - 🛠 &nbsp; My **Twitter** is in process...
 
-  <summary><b>My absolute favorites:</b></summary>
+<summary><b>My absolute favorites:</b></summary>
 
 - 🏐 &nbsp; Play volleyball at a competitive and amateur level.
 - 🤭 &nbsp; Help others in software development based on what I am learning.
