@@ -51,11 +51,13 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 ## 📈 Github Stats
 
 <details>
-  <summary>more info...</summary>
+  <summary><b>More info</b></summary>
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact)](https://github.com/atorres-io/github-readme-stats)
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact" />
   <br />
-  ![atorres-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue)
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue" />
+  <br />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=atorres-io&theme=vue&hide_border=true" />
 </details>
 
 ## 📫 Where to find me
