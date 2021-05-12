@@ -1,6 +1,6 @@
 # Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
 
-<img alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/illustration.png">
+<img alt="Presentation illustration" src="https://i.postimg.cc/mkHDSpVr/profile-test.png">
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
 
