@@ -1,6 +1,8 @@
 # Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
 
-<div align="center"><img alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/profile_test.svg"></div>
+<br />
+<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/profile_test.svg"></div>
+<br />
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
 
@@ -26,7 +28,7 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 </details>
 
 ## 🔧 Things I code with
- 
+
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e44d26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-379ad6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en/docs/Web/CSS)
 [![Sass Badge](https://img.shields.io/badge/-Sass-d56ea3?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
