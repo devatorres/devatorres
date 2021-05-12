@@ -1,7 +1,7 @@
 # Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
 
 <br />
-<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/assets/images/illustration.gif"></div>
+<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/assets/images/illustration.svg"></div>
 <br />
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
