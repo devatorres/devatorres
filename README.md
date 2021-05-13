@@ -70,8 +70,9 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atorresalcala)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.designs)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/atorres-designs)
-[![Figma Badge](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=a259ff)](https://www.figma.com/@atorres)
 [![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/atorres-io)
+
+/*Figma, Twitter, Blog...*/
 
 <hr />
 
