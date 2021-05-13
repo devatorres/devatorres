@@ -31,6 +31,7 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 
 [![Github Badge](https://img.shields.io/badge/-Github-062738?style=flat-square&logo=github&logoColor=white)](https://github.com)
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-25c7b7?style=flat-square&logo=netlify&logoColor=white)](https://netlify.com)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e44d26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-379ad6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en/docs/Web/CSS)
 [![Sass Badge](https://img.shields.io/badge/-Sass-d56ea3?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
