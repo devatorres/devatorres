@@ -4,7 +4,7 @@
 <div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/assets/images/illustration.svg"></div>
 <br />
 
-## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=atorres-io.atorres-io&style=flat-square&color=00b979)
+## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=atorres-io.atorres-io)
 
 I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I'm from Spain, living in Málaga 🌴 and currently I'm working on several and own professional projects that make me grow 📈.
 
