@@ -36,6 +36,7 @@ I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-379ad6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en/docs/Web/CSS)
 [![Sass Badge](https://img.shields.io/badge/-Sass-d56ea3?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-fcaa00?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en/docs/Web/JavaScript)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 [![Ionic Badge](https://img.shields.io/badge/-Ionic-3880ff?style=flat-square&logo=ionic&logoColor=white)](https://ionicframework.com)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-87cb5e?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
