@@ -6,19 +6,17 @@
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=atorres-io.atorres-io)
 
-I'm a web developer 👨🏻‍💻 and training day by day as a web designer. I'm from Spain, living in Málaga 🌴 and currently I'm working on several and own professional projects that make me grow 📈.
+I'm Web Developer 👨🏻‍💻 and training day by day as Web Designer. I'm working as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
 
 <details>	
   <summary><b>More about me</b></summary>
   <br />
-  <p>I have finished a vocational training of the degree <b>Web Application Development</b>. I also have a master's degree in Game Development from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn. I like to solve real-life software problems and I've been improving in web design (UX UI) and graphic design for <b>4</b> years now.</p>
+  <p>In education I have a higher education on <b>Web Applications Development</b>. I also have a master's degree in <b>Game Development</b> from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn.
   <p>🤔 <i>Where can you see some of my work?</i> &nbsp; <b>Easy!</b></p>
 
 - 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
 - 🎨 I'm on [Instagram](https://instagram.com/atorres.designs) where I upload tips, designs, illustrations, tests, etc.
 - 🎽 I'm on [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
-- 🛠 My personal **blog** is in process...
-- 🛠 My **Twitter** is in process...
 
 <b>My absolute favorites:</b>
 
