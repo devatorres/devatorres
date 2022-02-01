@@ -45,6 +45,7 @@ I'm web Developer and web Designer 👨🏻‍💻. I'm working as Front End Dev
 [![npm Badge](https://img.shields.io/badge/-npm-cc3534?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Prettier Badge](https://img.shields.io/badge/-Prettier-56b3b4?style=flat-square&logo=prettier&logoColor=e94e31)](https://prettier.io/)
 [![Chrome Badge](https://img.shields.io/badge/-Chrome-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/intl/en_en/chrome/)
+[![three.js Badge](https://img.shields.io/badge/-three.js-0a86cb?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Chart.js Badge](https://img.shields.io/badge/-Chart.js-fe767a?style=flat-square&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ff9a00)](https://www.adobe.com/products/illustrator.html)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=adobe-photoshop&logoColor=31a8ff)](https://www.adobe.com/products/photoshop.html)
