@@ -1,4 +1,4 @@
-# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="30px">
+# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="32">
 
 <br />
 <div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/assets/images/illustration.svg"></div>
@@ -27,31 +27,19 @@ I'm web Developer and web Designer 👨🏻‍💻. I'm working as Front End Dev
 
 ## 🔧 Things I work with
 
-[![Github Badge](https://img.shields.io/badge/-Github-062738?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![Netlify Badge](https://img.shields.io/badge/-Netlify-25c7b7?style=flat-square&logo=netlify&logoColor=white)](https://netlify.com)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e44d26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-379ad6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en/docs/Web/CSS)
-[![Sass Badge](https://img.shields.io/badge/-Sass-d56ea3?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-fcaa00?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Angular Badge](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![React Badge](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 [![Ionic Badge](https://img.shields.io/badge/-Ionic-3880ff?style=flat-square&logo=ionic&logoColor=white)](https://ionicframework.com)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-87cb5e?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![PHP Badge](https://img.shields.io/badge/-PHP-8a92bf?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-e48e00?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git Badge](https://img.shields.io/badge/-Git-e94e31?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![npm Badge](https://img.shields.io/badge/-npm-cc3534?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Prettier Badge](https://img.shields.io/badge/-Prettier-56b3b4?style=flat-square&logo=prettier&logoColor=e94e31)](https://prettier.io/)
-[![Chrome Badge](https://img.shields.io/badge/-Chrome-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/intl/en_en/chrome/)
-[![three.js Badge](https://img.shields.io/badge/-three.js-0a86cb?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Chart.js Badge](https://img.shields.io/badge/-Chart.js-fe767a?style=flat-square&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+
 [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ff9a00)](https://www.adobe.com/products/illustrator.html)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=adobe-photoshop&logoColor=31a8ff)](https://www.adobe.com/products/photoshop.html)
-[![Figma Badge](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=a259ff)](https://www.figma.com/)
-[![PhpStorm Badge](https://img.shields.io/badge/-PhpStorm-a849f2?style=flat-square&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
-[![VsCode Badge](https://img.shields.io/badge/-VSCode-038fd6?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <br />
 Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">Here</a>
 
