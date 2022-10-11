@@ -6,7 +6,7 @@
 
 ## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=atorres-io.atorres-io)
 
-I'm web Developer and web Designer 👨🏻‍💻. I'm working as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
+I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
 
 <details>	
   <summary><b>More about me</b></summary>
