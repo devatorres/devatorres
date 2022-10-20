@@ -1,29 +1,20 @@
-# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/devatorres/devatorres/master/assets/images/wave.gif" width="32">
+# Hola, soy Alejandro Torres! <img src="https://raw.githubusercontent.com/devatorres/devatorres/master/assets/images/wave.gif" width="32">
 
 <br />
 <div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/illustration.svg"></div>
 <br />
 
-I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
+Soy desarrollador y diseñador web 👨🏻‍💻. Trabajé como desarrollador Frontend en [Katedral Studios Sl.](https://katedralstudios.es) en proyectos que me han hecho crecer 📈.
 
 <details>	
-  <summary><b>More about me</b></summary>
+  <summary><b>Más sobre mí</b></summary>
   <br />
-  <p>In education I have a higher education on <b>Web Applications Development</b>. I also have a master's degree in <b>Game Development</b> from <a href="https://abonfireofsouls.com/gamia/">Gamia Formación</a>. I finished numerous courses on web design and I'm always looking for new challenges to learn.
-  <p>🤔 <i>Where can you see some of my work?</i> &nbsp; <b>Easy!</b></p>
-
-- 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
-- 🎨 I'm on [Instagram](https://instagram.com/atorres.dev) where I upload tips, designs, illustrations, tests, etc.
-- 🎽 I'm on [Codepen](https://codepen.io/devatorres) where I practice a lot and help those who need it.
-
-<b>My absolute favorites:</b>
-
-- 🏐 Play volleyball at a competitive and semi-professional level.
-- 🤭 Grow up giving helpful advice.
-- 🎮 Enjoy a good video game.
+  <p>Nací el 5 de junio de 1999 en Málaga. Siempre he sido una persona muy curiosa y creativa que le gusta aprender lo básico de muchas cosas y mejorar la calidad de aquello que me llama la atención.</p>
+  <p>No siempre tuve acceso al mundo informático, pero una vez lo conocí no he parado de aprender y mejorar llegando a un gran nivel gracias a mi falicidad de aprendizaje. Ahora soy Desarrollador y Diseñador Web 👨🏻‍💻 donde siempre estoy involucrado en proyectos que me hacen crecer 📈.</p>
+  <p>Tengo numerosos cursos sobre diseño y programación que me motivan a seguir progresando, para que el conocimiento y la imaginación nunca cesen, ya que "el poder de la imaginación nos hace infinitos ⭐".</p>
 </details>
 
-## 🔧 Things I work with
+## 🔧 Cosas con las que trabajo
 
 [![React Badge](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-fcaa00?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en/docs/Web/JavaScript)
@@ -39,12 +30,12 @@ I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Develo
 [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ff9a00)](https://www.adobe.com/products/illustrator.html)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=adobe-photoshop&logoColor=31a8ff)](https://www.adobe.com/products/photoshop.html)
 <br />
-Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">Here</a>
+Mira mi configuración de VSCode <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">aquí</a>
 
-## 📈 Github Stats
+## 📈 Estadísticas GitHub
 
 <details>
-  <summary><b>More info</b></summary>
+  <summary><b>Más info</b></summary>
   <br />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatorres&layout=compact" />
   <br />
@@ -53,7 +44,7 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=devatorres&theme=vue&hide_border=false" />
 </details>
 
-## 📫 Where to find me
+## 📫 Dónde puedes encontrarme
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devatorres)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.dev)
@@ -62,4 +53,4 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 
 <hr />
 
-### Show some ❤️ by starring some of the repositories!
+### Dale algún ❤️ a algún repor!
