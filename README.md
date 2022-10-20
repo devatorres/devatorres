@@ -58,7 +58,7 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devatorres)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.dev)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/devatorres)
-[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/devatorres)
+[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/atorres-io)
 
 <hr />
 
