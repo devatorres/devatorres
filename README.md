@@ -4,8 +4,6 @@
 <div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/illustration.svg"></div>
 <br />
 
-## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=devatorres.devatorres)
-
 I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
 
 <details>	
