@@ -1,10 +1,10 @@
-# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/atorres-io/atorres-io/master/assets/images/wave.gif" width="32">
+# Hello, I'm Alejandro Torres! <img src="https://raw.githubusercontent.com/devatorres/devatorres/master/assets/images/wave.gif" width="32">
 
 <br />
-<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/atorres-io/atorres-io/blob/master/assets/images/illustration.svg"></div>
+<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/illustration.svg"></div>
 <br />
 
-## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=atorres-io.atorres-io)
+## I'll make your visit worthwhile! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=devatorres.devatorres)
 
 I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Developer in [Katedral Studios Sl.](https://katedralstudios.es) in projects that make me grow 📈.
 
@@ -15,8 +15,8 @@ I'm web Developer and web Designer 👨🏻‍💻. I worked as Front End Develo
   <p>🤔 <i>Where can you see some of my work?</i> &nbsp; <b>Easy!</b></p>
 
 - 🗡 There are numerous completed challenges available on my Github about [Frontend Mentor](https://frontendmentor.io).
-- 🎨 I'm on [Instagram](https://instagram.com/atorres.designs) where I upload tips, designs, illustrations, tests, etc.
-- 🎽 I'm on [Codepen](https://codepen.io/atorres-designs) where I practice a lot and help those who need it.
+- 🎨 I'm on [Instagram](https://instagram.com/atorres.dev) where I upload tips, designs, illustrations, tests, etc.
+- 🎽 I'm on [Codepen](https://codepen.io/devatorres) where I practice a lot and help those who need it.
 
 <b>My absolute favorites:</b>
 
@@ -48,19 +48,19 @@ Checkout My VSCode Configurations <a href="https://gist.github.com/atorres-io/bd
 <details>
   <summary><b>More info</b></summary>
   <br />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorres-io&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatorres&layout=compact" />
   <br />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atorres-io&show_icons=true&theme=vue" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devatorres&show_icons=true&theme=vue" />
   <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=atorres-io&theme=vue&hide_border=false" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=devatorres&theme=vue&hide_border=false" />
 </details>
 
 ## 📫 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atorresalcala)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.designs)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/atorres-designs)
-[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/atorres-io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devatorres)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/atorres.dev)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/devatorres)
+[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/devatorres)
 
 <hr />
 
