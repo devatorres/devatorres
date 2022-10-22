@@ -53,4 +53,4 @@ Mira mi configuración de VSCode <a href="https://gist.github.com/atorres-io/bdb
 
 <hr />
 
-### Dale ❤️ a algún repor!
+### Dale ⭐ a algún repor!
