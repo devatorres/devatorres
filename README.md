@@ -36,11 +36,11 @@ Mira mi gran configuración de VSCode <a href="https://gist.github.com/atorres-i
 <details>
   <summary><b>Más info</b></summary>
   <br />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatorres&layout=compact" />
-  <br />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devatorres&show_icons=true&theme=vue" />
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=devatorres&theme=vue&hide_border=false" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=devatorres&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=134e4a&hide_border=true&show_icons=true" alt="devatorres's GitHub stats" />
+<br/>
+<img width="520" src="https://activity-graph.herokuapp.com/graph?username=devatorres&bg_color=134e4a&color=ffffff&line=10b981&point=ffffff&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<br/>
+<img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatorres&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </details>
 
 ## 📫 Dónde puedes encontrarme
