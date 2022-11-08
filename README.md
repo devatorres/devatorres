@@ -29,7 +29,7 @@
 [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ff9a00)](https://www.adobe.com/products/illustrator.html)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=adobe-photoshop&logoColor=31a8ff)](https://www.adobe.com/products/photoshop.html)
 <br />
-Mira mi gran configuración de VSCode <a href="https://gist.github.com/atorres-io/bdb01184c3142c23c0ae1d8d9c89a6e1">aquí</a> para trabajar mucho mejor. 😊
+Mira mi gran configuración de VSCode <a href="https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1">aquí</a> para trabajar mucho mejor. 😊
 
 ## 📈 Estadísticas GitHub
 
