@@ -5,7 +5,7 @@
 <br />
 
 <p>Siempre he sido una persona muy curiosa y creativa que le gusta aprender lo básico de muchas cosas y mejorar la calidad de aquello que me llama la atención 💚 .</p>
-<p>No siempre tuve acceso al mundo informático, pero una vez pude no he parado de aprender y mejorar llegando a un gran nivel gracias a mi falicidad de aprendizaje. Ahora soy Desarrollador y Diseñador Web donde siempre estoy involucrado en proyectos que me hacen crecer 📈 .</p>
+<p>No siempre tuve acceso al mundo informático, pero una vez pude no he parado de aprender y mejorar llegando a un gran nivel gracias a mi facilidad de aprendizaje. Ahora soy Desarrollador y Diseñador Web donde siempre estoy involucrado en proyectos que me hacen crecer 📈 .</p>
 <p>También tengo cursos sobre diseño y programación que me motivan a seguir progresando, para que el conocimiento y la imaginación nunca cesen, ya que "el poder de la imaginación nos hace infinitos ⭐ ".</p>
 </details>
 
