@@ -8,6 +8,7 @@
 
 <br />
 
+- Todos los repositorios poseen una url para previsualizar el resultado
 - Actualmente estoy trabajando en [Ipglobal Tech Hub](https://www.ipglobal.es/) en un gran proyecto
 - Aprendiendo nuevas features `CSS` y `Framer Motion`
 - Mira mi gran configuración de VSCode [aquí](https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1) para trabajar mucho mejor
