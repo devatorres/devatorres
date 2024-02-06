@@ -1,11 +1,18 @@
-# Hola, soy ◤orres! 👋🏽 
+<div align="center"><h2><b>Hola, soy devatorres! 👋🏽 </b></h2></div>
 
 <div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/illustration.svg"></div>
-<br />
-<div align="center"><i>Un desarrollador de 24 años y me apasiona crear experiencias digitales.</i></div>
+
 <br />
 
-## 🔧 Herramientas con las que trabajo
+<div align="center"><i>un desarrollador frontend de 24 años que le apasiona crear experiencias digitales.</i></div>
+
+<br />
+
+- Actualmente estoy trabajando en [Ipglobal Tech Hub](https://www.ipglobal.es/) en un gran proyecto
+- Aprendiendo nuevas features `CSS` y `Framer Motion`
+- Mira mi gran configuración de VSCode [aquí](https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1) para trabajar mucho mejor
+
+## 📦 Caja de herramientas
 
 [![React Badge](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 [![Vite Badge](https://img.shields.io/badge/-Vite-bd34fe?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
@@ -26,8 +33,6 @@
 [![Moment Badge](https://img.shields.io/badge/-Moment-2c2c2c?style=flat-square)](https://momentjs.com)
 [![Recharts Badge](https://img.shields.io/badge/-Recharts-22b5bf?style=flat-square)](https://recharts.org/en-US)
 [![Zustand Badge](https://img.shields.io/badge/-Zustand-252b37?style=flat-square)](https://docs.pmnd.rs/zustand/getting-started/introduction)
-<br />
-Mira mi gran configuración de VSCode <a href="https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1">aquí</a> para trabajar mucho mejor. 😊
 
 ## 📫 Dónde puedes encontrarme
 
@@ -36,6 +41,6 @@ Mira mi gran configuración de VSCode <a href="https://gist.github.com/devatorre
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-2c2c2c?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/devatorres)
 [![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?style=flat-square&logo=%F0%9F%8C%9F&logoColor=a259ff)](https://www.frontendmentor.io/profile/atorres-io)
 
-<hr />
+<br />
 
-### Dale ⭐ a algún repor!
+<div align="center"><b>Dale ⭐ a alguno que te haya gustado!</b></div>
