@@ -1,17 +1,17 @@
 <div align="center"><h2><b>Hola, soy devatorres! 👋🏽 </b></h2></div>
 
-<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/illustration.svg"></div>
+<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/scene_2024.svg" />
 
 <br />
 
-<div align="center"><i>un desarrollador frontend de 24 años que le apasiona crear experiencias digitales.</i></div>
+<div align="center"><i>un desarrollador frontend de 25 años que le apasiona crear experiencias digitales.</i></div>
 
 <br />
 
 - Todos los repositorios poseen una url para previsualizar el resultado
 - Actualmente estoy trabajando en [Ipglobal Tech Hub](https://www.ipglobal.es/) en un gran proyecto
-- Aprendiendo nuevas features `CSS` y `Framer Motion`
-- Mira mi gran configuración de VSCode [aquí](https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1) para trabajar mucho mejor
+- Aprendiendo nuevas features `CSS` día a día
+- Mira mi gran configuración de VSCode [aquí](https://gist.github.com/devatorres/bdb01184c3142c23c0ae1d8d9c89a6e1) para trabajar de la forma más óptima
 
 ## 📦 Caja de herramientas
 
