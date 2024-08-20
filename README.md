@@ -1,6 +1,6 @@
 <div align="center"><h2><b>Hola, soy devatorres! 👋🏽 </b></h2></div>
 
-<div align="center"><img width="375" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/scene_2024.svg" />
+<div align="center"><img width="300" alt="Presentation illustration" src="https://github.com/devatorres/devatorres/blob/master/assets/images/scene_2024.svg" /></div>
 
 <br />
 
